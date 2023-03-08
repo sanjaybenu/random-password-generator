@@ -36,7 +36,7 @@ Then user will be presented with an alert to choose if uppercase is to be includ
 ![93134ADF-6E37-429E-8A32-6A1ABF34F5F6](https://user-images.githubusercontent.com/105487471/223869505-64f2c3ed-3ed8-4539-97cb-538f725f24b3.jpeg)
 Now user will be presented with an alert to choose if numbers are to be included. Press “Ok” for yes or press cancel for no.
 
-Add screen shot
+![3F12BD3C-9036-4B4E-A8CD-20EE177669DD](https://user-images.githubusercontent.com/105487471/223869871-3b9d1a7e-ceec-4558-9da5-7467fe3abd88.jpeg)
 
 Finally, user will be presented with an alert to choose if special characters are to be included. Press “Ok” for yes or press cancel for no.
 

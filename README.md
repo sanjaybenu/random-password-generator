@@ -32,8 +32,8 @@ Once the correct length of the password has been selected, app will ask to choos
 
 Then user will be presented with an alert to choose if uppercase is to be included. Press “Ok” for yes or press cancel for no.
 
-Add screen shot
 
+![93134ADF-6E37-429E-8A32-6A1ABF34F5F6](https://user-images.githubusercontent.com/105487471/223869505-64f2c3ed-3ed8-4539-97cb-538f725f24b3.jpeg)
 Now user will be presented with an alert to choose if numbers are to be included. Press “Ok” for yes or press cancel for no.
 
 Add screen shot

@@ -48,7 +48,11 @@ If none of the character types are selected the warning will be shown that at le
 
 On pressing “Ok” the app will go back to main page and the password box will show undefined. User have to start again and choose the options carefully to generate the password.
 
-Add screen shot.
+![90F7FD18-DA72-4A75-A380-61BFF6DF58D9](https://user-images.githubusercontent.com/105487471/223870882-cb5bde1e-089e-4037-89ce-004853821782.jpeg)
+
+If criterion is selected correctly it will generate a password with the criterion selected and display in the box
+
+add screen shot
 
 The instructions on how to use the app are also provide in the app.
 

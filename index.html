@@ -1,34 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Password Generator</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Password Generator</h1>
-      </header>
-      <div class="card">
-        <div class="card-header">
-          <h2>Generate a Password</h2>
-        </div>
-        <div class="card-body">
-          <textarea
-            readonly
-            id="password"
-            placeholder="Your Secure Password"
-            aria-label="Generated Password"
-          ></textarea>
-        </div>
-        <div class="card-footer">
-          <button id="generate" class="btn">Generate Password</button>
-        </div>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Password Generator</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://kit.fontawesome.com/9c4ffe41b1.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>Password Generator</h1>
+    </header>
+    <div class="card">
+      <div class="card-header">
+        <h2>Generate a Password</h2>
+      </div>
+      <div class="card-body">
+        <textarea readonly id="password" placeholder="Your Secure Password" aria-label="Generated Password"></textarea>
+      </div>
+      <div class="card-footer">
+        <button id="generate" class="btn">Generate Password</button>
       </div>
     </div>
+    <div class="instructions">
+      <h3>Instructions</h3>
+      <ul>
+        <li>Click Generate Password to start .</li>
+        <li>When prompted choose the length of the password. Length could be between 8 and 128 characters .</li>
+        <li>When prompted select if you want lowercase in your password string.</li>
+        <li>When prompted select if you want uppercase in your password string.</li>
+        <li>When prompted select if you want numbers in your password string.</li>
+        <li>When prompted select if you want special characters in your password string.</li>
+        <li>When all prompts have been answered a random password will be generated using criteria selected</li>
+        <li>If none of the character types are selected Password will not be generated and user will have to start
+          again.</li>
+      </ul>
+
+
+    </div>
+    <footer class="footer">
+      <div class="icons">
+        <a href="https://www.facebook.com" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+        <a href="https://www.twitter.com" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+        <a href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://www.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+        <a href="https://www.github.com" target="_blank"><i class="fa-brands fa-github"></i></a>
+        
+      </div>
+         <h5>Made with <i class="fa-sharp fa-regular fa-heart"></i> by Sanjay Chopra</h5>
+    </footer>     
+         <h5 id="attribution"><a href="https://www.freepik.com/free-photo/high-angle-defocused-wooden-cubes-with-password_8725539.htm#query=Passwords&position=2&from_view=search&track=sph" target="_blank">Freepik</a></h5>
+         
+
+
     <script src="script.js"></script>
-  </body>
+</body>
+
 </html>

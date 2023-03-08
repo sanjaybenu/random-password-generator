@@ -52,7 +52,8 @@ On pressing “Ok” the app will go back to main page and the password box will
 
 If criterion is selected correctly it will generate a password with the criterion selected and display in the box
 
-add screen shot
+![4F41273C-0B1B-4A10-BAF1-CCAA2BE31F95](https://user-images.githubusercontent.com/105487471/223871962-9c8f12f4-3816-460d-8bd0-c381c1c45700.jpeg)
+
 
 The instructions on how to use the app are also provide in the app.
 

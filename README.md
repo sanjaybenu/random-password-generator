@@ -16,7 +16,7 @@ The password generated should be between 8 to 128 character long strong and will
 
 When the app is loaded, in order to generate a password click generate password button.
 
-Add screenshot
+![45B4BA3D-2331-4749-8EA2-D69EB39B8352](https://user-images.githubusercontent.com/105487471/223868912-f192f644-19e3-4883-b115-df9fea559fcc.jpeg)
 
 On pressing the button user will be presented with number of prompts and alerts to allow selection of criterion of the password to be generated.
 

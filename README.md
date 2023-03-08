@@ -40,7 +40,7 @@ Now user will be presented with an alert to choose if numbers are to be included
 
 Finally, user will be presented with an alert to choose if special characters are to be included. Press “Ok” for yes or press cancel for no.
 
-Add screen shot.
+![B0A21710-3B12-4A42-9C72-533F2AE82C20](https://user-images.githubusercontent.com/105487471/223870130-5fb9a907-dcf3-4b7c-a2fc-9369cac3de88.jpeg)
 
 If none of the character types are selected the warning will be shown that at least one of the character types is to be selected to generate the password. 
 

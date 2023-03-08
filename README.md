@@ -44,7 +44,7 @@ Finally, user will be presented with an alert to choose if special characters ar
 
 If none of the character types are selected the warning will be shown that at least one of the character types is to be selected to generate the password. 
 
-Add screen shot.
+![C514BC2A-A2A0-47E3-887F-9DBF440B8EB7_4_5005_c](https://user-images.githubusercontent.com/105487471/223870439-f958293c-f10c-4b9b-90d8-27c271d8229e.jpeg)
 
 On pressing “Ok” the app will go back to main page and the password box will show undefined. User have to start again and choose the options carefully to generate the password.
 

@@ -27,7 +27,8 @@ First prompt asks user to input length of the password to be generated. The pass
 
 Once the correct length of the password has been selected, app will ask to choose if lowercase needs to be included in the password. If yes press “Ok” or else press cancel.
 
-Add screenshot
+![7597C973-116F-4836-A1A5-51DB07999999](https://user-images.githubusercontent.com/105487471/223869270-60af9446-53cf-4726-8ba6-9cf8c557ecfe.jpeg)
+
 
 Then user will be presented with an alert to choose if uppercase is to be included. Press “Ok” for yes or press cancel for no.
 

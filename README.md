@@ -22,7 +22,8 @@ On pressing the button user will be presented with number of prompts and alerts 
 
 First prompt asks user to input length of the password to be generated. The password needs to be between 8 and 128 characters long. If the input is outside this value the prompt will be presented again to input the length desired, to be within the parameters.
 
-Add screenshot
+![3862E200-CC94-4108-82F0-3544C7F7DE41](https://user-images.githubusercontent.com/105487471/223869069-e769dd6d-ea98-429c-80c0-c7655198b282.jpeg)
+
 
 Once the correct length of the password has been selected, app will ask to choose if lowercase needs to be included in the password. If yes press “Ok” or else press cancel.
 

@@ -59,6 +59,8 @@ The instructions on how to use the app are also provide in the app.
 
 ![D5F32FA8-D79D-4CF4-845E-FE094AC29CA4](https://user-images.githubusercontent.com/105487471/223872254-9e3395ac-8ab0-4deb-b3aa-1ed31436a342.jpeg)
 
+## Link to application
+
 Click below to visit app.
 
 https://sanjaybenu.github.io/random-password-generator/
